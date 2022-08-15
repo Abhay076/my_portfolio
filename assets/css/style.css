@@ -62,7 +62,7 @@ body {
 .social-icon li a i {
   /*color: red;*/
   padding: 10px;
-  font-size: 1rem;
+  font-size: 1.8rem;
   border-radius: 50%;
 }
 
@@ -551,7 +551,7 @@ textarea {
 }
 
 #contact .social-icons li a i {
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   margin: 40px 10px 10px;
   padding: 10px 14px 20px 10px;
 }
